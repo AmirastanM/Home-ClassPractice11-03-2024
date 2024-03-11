@@ -1,0 +1,4 @@
+C:\Users\Amirastan\Desktop\it c#\ClassPractice_11_03_2024\ClassPractice_11_03_2024\obj\Debug\net6.0\Home tasks_practice_in_Class_11_03_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amirastan\Desktop\it c#\ClassPractice_11_03_2024\ClassPractice_11_03_2024\obj\Debug\net6.0\Home tasks_practice_in_Class_11_03_2024.AssemblyInfoInputs.cache
+C:\Users\Amirastan\Desktop\it c#\ClassPractice_11_03_2024\ClassPractice_11_03_2024\obj\Debug\net6.0\Home tasks_practice_in_Class_11_03_2024.AssemblyInfo.cs
+C:\Users\Amirastan\Desktop\it c#\ClassPractice_11_03_2024\ClassPractice_11_03_2024\obj\Debug\net6.0\Home tasks_practice_in_Class_11_03_2024.csproj.CoreCompileInputs.cache

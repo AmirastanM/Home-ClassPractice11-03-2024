@@ -1,0 +1,14 @@
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\bin\Debug\net6.0\Class_Practice_Generics.exe
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\bin\Debug\net6.0\Class_Practice_Generics.deps.json
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\bin\Debug\net6.0\Class_Practice_Generics.runtimeconfig.json
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\bin\Debug\net6.0\Class_Practice_Generics.dll
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\bin\Debug\net6.0\Class_Practice_Generics.pdb
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\obj\Debug\net6.0\Class_Practice_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\obj\Debug\net6.0\Class_Practice_Generics.AssemblyInfoInputs.cache
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\obj\Debug\net6.0\Class_Practice_Generics.AssemblyInfo.cs
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\obj\Debug\net6.0\Class_Practice_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\obj\Debug\net6.0\Class_Practice_Generics.dll
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\obj\Debug\net6.0\refint\Class_Practice_Generics.dll
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\obj\Debug\net6.0\Class_Practice_Generics.pdb
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\obj\Debug\net6.0\Class_Practice_Generics.genruntimeconfig.cache
+C:\Users\Amirastan\Desktop\it c#\Class_Practice_Generics\Class_Practice_Generics\obj\Debug\net6.0\ref\Class_Practice_Generics.dll
